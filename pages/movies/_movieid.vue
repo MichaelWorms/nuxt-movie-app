@@ -58,7 +58,6 @@ export default {
   async fetch () {
     await this.getSingleMovie()
   },
-  fetchDelay: 1000,
   head () {
     return {
       title: this.movie.title

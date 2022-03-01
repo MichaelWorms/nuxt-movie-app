@@ -103,7 +103,6 @@ export default {
     }
     await this.searchMovies()
   },
-  fetchDelay: 1000,
   head () {
     return {
       title: 'Movie App - Latest Streaming Movie Info',

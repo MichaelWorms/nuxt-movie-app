@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'movieapp',
+    title: 'Frog Movie App',
     htmlAttrs: {
       lang: 'en'
     },
