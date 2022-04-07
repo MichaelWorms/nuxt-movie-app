@@ -69,7 +69,7 @@
             <p class="release">
               Released:
               {{
-                new Date(movie.release_date).toLocaleString('en-us', {
+                new Date(movie.release_date).toLocaleString('en-gb', {
                   month: 'long',
                   day: 'numeric',
                   year: 'numeric'
